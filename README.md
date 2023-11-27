@@ -8,6 +8,10 @@ The Student Result Management System is a comprehensive software application des
 3. MySQL Database
 4. NetBeans IDE: NetBeans is an integrated development environment (IDE) that supports Java development. It provides a user-friendly interface and a range of tools for coding, debugging, and project management.
 5. JDBC (Java Database Connectivity): JDBC is a Java API that enables Java applications to interact with relational databases like MySQL. It provides a set of classes and interfaces that allow developers to perform database operations, such as establishing a connection, executing SQL queries, and retrieving data. JDBC is used in the project to connect NetBeans IDE with the MySQL database for seamless data transfer and manipulation.
+
+## ➡️ Video Demo Link
+https://drive.google.com/file/d/1_RAV4mD3Qzl9ofPRK3_12KlievzsKV_p/view?usp=sharing
+
 ## ➡️ SCREENSHOTS
 👉 Main Interface
 ![](src/screenshot1.png)
