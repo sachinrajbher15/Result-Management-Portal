@@ -11,7 +11,12 @@ The Student Result Management System is a comprehensive software application des
 ## ➡️ SCREENSHOTS
 👉 Screenshot of Main Interface
 ![](src/screenshot1.png)
+
 👉 Screenshot of Admin Portal Interface
 ![](src/screenshot2.png)
+
 👉 Screenshot of Student Portal Interface
 ![](src/screenshot3.png)
+
+👉 Admin Panel Interface
+👉 Result Display Interface
