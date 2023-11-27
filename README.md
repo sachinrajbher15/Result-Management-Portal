@@ -10,8 +10,8 @@ The Student Result Management System is a comprehensive software application des
 5. JDBC (Java Database Connectivity): JDBC is a Java API that enables Java applications to interact with relational databases like MySQL. It provides a set of classes and interfaces that allow developers to perform database operations, such as establishing a connection, executing SQL queries, and retrieving data. JDBC is used in the project to connect NetBeans IDE with the MySQL database for seamless data transfer and manipulation.
 ## ➡️ SCREENSHOTS
 👉 Screenshot of Main Interface
-![](src/screenshot1.PNG)
+![](src/screenshot1.png)
 👉 Screenshot of Admin Portal Interface
-![](src/screenshot2.PNG)
+![](src/screenshot2.png)
 👉 Screenshot of Student Portal Interface
-![](src/screenshot3.PNG)
+![](src/screenshot3.png)
